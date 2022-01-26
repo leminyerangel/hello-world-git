@@ -14,3 +14,13 @@ Underline 2
 * letra _italica_ de la segunda forma.
 * Letra **bold o strong** 
 * formato ~~tachado~~
+
+## Listas
+1. Esto es un item 1.
+2. esto es un item 2
+
+## Tablas
+
+| Nombre | Apellido | Documento |
+| ------ | -------- | --------- |
+| MAXI | Burgos | 1925372 |
